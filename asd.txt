@@ -1,1 +1,5 @@
-asdasd
+<<<<<<< HEAD
+asdasdsda
+=======
+sadasdsa
+>>>>>>> 2d018a95d5a06339577783ad8bdf422d212509cc
